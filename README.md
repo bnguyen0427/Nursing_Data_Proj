@@ -1,4 +1,4 @@
-# 🏥 US Nursing Homes Investment Analysis (2015–2021)
+# US Nursing Homes Investment Project (2015–2021)
 
 A data analytics project that looks at **14,900+ nursing homes across the US** to help investors understand which ones are financially healthy and worth investing in.
 
