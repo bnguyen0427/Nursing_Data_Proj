@@ -1,5 +1,8 @@
 # US Nursing Homes Investment Project (2015–2021)
 
+---
+## Overview
+
 A data analytics project that looks at **14,900+ nursing homes across the US** to help investors understand which ones are financially healthy and worth investing in.
 
 I cleaned and combined years of messy government data using Python, then built an interactive Tableau dashboard so investors can explore it themselves.
