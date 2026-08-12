@@ -56,7 +56,7 @@ Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) t
 ### 1. Overview
 The big picture — total facilities, average ratings, revenue, and income trends from 2015–2021, plus a map of where facilities are located.
 
-![Overview]<img width="944" height="569" alt="Screenshot 2026-08-11 at 9 20 45 PM" src="https://github.com/user-attachments/assets/e7cd3d04-824e-4412-8129-7f46f2cef0c2" />
+![Overview](<img width="944" height="569" alt="Screenshot 2026-08-11 at 9 20 45 PM" src="https://github.com/user-attachments/assets/e7cd3d04-824e-4412-8129-7f46f2cef0c2" />)
 
 
 ### 2. Geography
