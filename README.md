@@ -71,7 +71,7 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 <img width="949" height="563" alt="Screenshot 2026-08-11 at 9 22 42 PM" src="https://github.com/user-attachments/assets/fbe2aa0d-5b4b-4576-9c97-2eaed26595a2" />
 
 
-**[🔗 View the live dashboard on Tableau Public](#)** <!-- https://public.tableau.com/views/USNursingHomesInvestment/Story3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link -->
+**[🔗 View the live dashboard on Tableau Public](#)** <!-- https://public.tableau.com/shared/GNM2RXGRK?:display_count=n&:origin=viz_share_link-->
 
 ---
 
