@@ -97,5 +97,6 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 ## 👤 Credits
 
 **Author: Brandon Nguyen**
-**Mentors**: Bach Nguyen (Data Engineer at CoxHealth) | Binh Tran   (Data Scientist at iSpot.tv)
+- **Mentors**: Bach Nguyen (Data Engineer at CoxHealth)
+-              Binh Tran   (Data Scientist at iSpot.tv)
 
