@@ -2,22 +2,19 @@
 
 ---
 ## Overview
+An end-to-end data project analyzing 14,900+ nursing homes across the United States to identify investment opportunities in the skilled nursing facility (SNF) industry — a sector positioned for growth as America's population ages.
 
-A data analytics project that looks at **14,900+ nursing homes across the US** to help investors understand which ones are financially healthy and worth investing in.
-
-I cleaned and combined years of messy government data using Python, then built an interactive Tableau dashboard so investors can explore it themselves.
-
-![Overview Dashboard](images/dashboard_overview.png)
+The project combines a Python/pandas ETL pipeline with an interactive Tableau dashboard, turning raw CMS provider, cost report, quality, and penalty data into decision-ready insights for investors.
 
 ---
 
-## 🎯 What This Project Does
+## Project Objectives
 
 1. Analyzes nursing home data from 2015–2021 to find **investment opportunities**.
 2. Provides an **interactive dashboard** so investors can explore the data on their own.
 3. Highlights which facilities/regions look **financially strong vs. risky**.
 
-## 🧠 Why This Matters
+## Business Contexts
 
 The US population is aging fast, which means more people will need nursing home care in the coming years. But nursing homes are expensive to run and often operate on thin profit margins. This project helps investors answer:
 
@@ -28,7 +25,7 @@ The US population is aging fast, which means more people will need nursing home 
 
 ---
 
-## 🗂️ Where the Data Came From
+## Datasets
 
 All data comes from **CMS (Centers for Medicare & Medicaid Services)**, a public US government source. I used 5 different datasets, each covering 2015–2021:
 
@@ -38,7 +35,7 @@ All data comes from **CMS (Centers for Medicare & Medicaid Services)**, a public
 - **Quality Measures** – care quality scores
 - **Penalties** – fines and payment denials
 
-## 🧹 How I Cleaned the Data
+## Data Cleaning Process
 
 Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) to fix that. In plain terms, here's what it does:
 
@@ -59,7 +56,8 @@ Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) t
 ### 1. Overview
 The big picture — total facilities, average ratings, revenue, and income trends from 2015–2021, plus a map of where facilities are located.
 
-![Overview](images/dashboard_overview.png)
+![Overview]([Dashboard 1.pdf](https://github.com/user-attachments/files/30963475/Dashboard.1.pdf)
+)
 
 ### 2. Geography
 Where the opportunities are — top states by profitability, top states by aging population, and a rural vs. urban comparison.
