@@ -56,8 +56,8 @@ Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) t
 ### 1. Overview
 The big picture — total facilities, average ratings, revenue, and income trends from 2015–2021, plus a map of where facilities are located.
 
-![Overview]([Dashboard 1.pdf](https://github.com/user-attachments/files/30963475/Dashboard.1.pdf)
-)
+![Overview]<img width="944" height="569" alt="Screenshot 2026-08-11 at 9 20 45 PM" src="https://github.com/user-attachments/assets/e7cd3d04-824e-4412-8129-7f46f2cef0c2" />
+
 
 ### 2. Geography
 Where the opportunities are — top states by profitability, top states by aging population, and a rural vs. urban comparison.
