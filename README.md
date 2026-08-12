@@ -56,20 +56,22 @@ Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) t
 ### 1. Overview
 The big picture — total facilities, average ratings, revenue, and income trends from 2015–2021, plus a map of where facilities are located.
 
-![Overview](<img width="944" height="569" alt="Screenshot 2026-08-11 at 9 20 45 PM" src="https://github.com/user-attachments/assets/e7cd3d04-824e-4412-8129-7f46f2cef0c2" />)
+<img width="944" height="569" alt="Screenshot 2026-08-11 at 9 20 45 PM" src="https://github.com/user-attachments/assets/e7cd3d04-824e-4412-8129-7f46f2cef0c2" />
 
 
 ### 2. Geography
 Where the opportunities are — top states by profitability, top states by aging population, and a rural vs. urban comparison.
+<img width="948" height="576" alt="Screenshot 2026-08-11 at 9 22 33 PM" src="https://github.com/user-attachments/assets/5744e758-3d65-4c4a-8d29-584f4382f582" />
 
-![Geography](images/dashboard_geography.png)
+
 
 ### 3. Finance
 A closer look at financial health — profit margins, debt levels, labor costs, and a state-by-state financial performance table.
 
-![Finance](images/dashboard_finance.png)
+<img width="949" height="563" alt="Screenshot 2026-08-11 at 9 22 42 PM" src="https://github.com/user-attachments/assets/fbe2aa0d-5b4b-4576-9c97-2eaed26595a2" />
 
-**[🔗 View the live dashboard on Tableau Public](#)** <!-- add your link here -->
+
+**[🔗 View the live dashboard on Tableau Public](#)** <!-- https://public.tableau.com/views/USNursingHomesInvestment/Story3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link -->
 
 ---
 
@@ -92,29 +94,9 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 ---
 
-## 📁 What's in This Repo
-
-```
-├── Data_Cleaning.ipynb     → the code that cleans and combines all the data
-├── dashboards/              → PDF exports of the 3 dashboard pages
-├── images/                  → screenshots used in this README
-└── README.md
-```
-
-📌 Note: the raw data files aren't included here (too large for GitHub), but they're publicly available at [data.cms.gov](https://data.cms.gov/).
-
----
-
-## 🔮 What I'd Add Next
-
-- Bring in newer data as CMS releases it, to see how the industry recovered after COVID.
-- Build a simple "risk score" for each facility based on finances, ratings, and penalty history.
-- Try predicting which facilities are likely to become financially distressed.
-
----
-
 ## 👤 Author
 
-**[Your Name]**
-Data Analyst / Data Scientist
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+**[Brandon Nguyen]**
+Mentors: - Bach Nguyen (Data Engineer at CoxHealth) 
+         - Binh Tran   (Data Scientist at iSpot.tv)
+
