@@ -27,7 +27,7 @@ The US population is aging fast, which means more people will need nursing home 
 
 ## Datasets
 
-All data comes from **CMS (Centers for Medicare & Medicaid Services)** https://data.cms.gov/provider-data/topics/nursing-homes, a public US government source. I used 5 different datasets, each covering 2015–2021:
+The data was provided by [**CMS (Centers for Medicare & Medicaid Services)**](https://data.cms.gov/provider-data/topics/nursing-homes), a public US government source.  
 
 - **Provider Info** – basic facility details (name, location, ownership, ratings)
 - **Cost Reports** – yearly financials (revenue, income, expenses, assets)
