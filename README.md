@@ -77,11 +77,12 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 ## 💡 Key Takeaways
 
-- **Profit margins are thin.** Facilities average $12.4M in revenue but only about $68K in net income — a tiny margin.
+- **Stable revenue.** Nursing homes generate stable revenue over the years ( even during COVID 19)
 - **Most facilities are for-profit**, which affects both risk and quality ratings compared to non-profit or government-run homes.
 - **High-demand states aren't always the most profitable ones.** States like Maine, Florida, and West Virginia have the oldest populations, but they aren't necessarily the top states for net income — a potential opportunity gap for investors.
 - **Urban facilities outnumber rural ones by more than 2-to-1** (~11,100 vs. ~4,400), which affects staffing and costs differently.
-- **2020 was a rough year financially** across the board, most likely due to COVID-19's impact on occupancy and costs.
+- **Potential investment regions** DC, HI, VA, LA
+- **Risk factors** Occupancy decline and rising labor costs
 
 ---
 
@@ -89,8 +90,8 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 - **Python** (pandas) — cleaning and combining the data
 - **Jupyter Notebook** — where the cleaning code lives
-- **Tableau** — building the interactive dashboard
-- **CMS.gov** — where the raw data came from
+- **Tableau** — building the interactive dashboards
+- **SQL** — wrote queries to reproduce dashboard aggregations (avg net income by state, top states, rural/urban counts) and investigate specific findings
 
 ---
 
