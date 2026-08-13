@@ -35,6 +35,16 @@ The data was provided by [**CMS (Centers for Medicare & Medicaid Services)**](ht
 - **Quality Measures** – care quality scores
 - **Penalties** – fines and payment denials
 
+---
+## 🛠️ Tools Used
+
+- **Python** (pandas) — cleaning and combining the data
+- **Jupyter Notebook** — where the cleaning code lives
+- **Tableau** — building the interactive dashboards
+- **SQL** — wrote queries to reproduce dashboard aggregations (avg net income by state, top states, rural/urban counts) and investigate specific findings
+
+---
+
 ## Data Cleaning Process
 
 Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) to fix that. In plain terms, here's what it does:
@@ -81,15 +91,6 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 - **Urban facilities outnumber rural ones by more than 2-to-1** (~11,100 vs. ~4,400), which affects staffing and costs differently.
 - **Potential investment regions** DC, HI, VA, LA
 - **Risk factors** Occupancy decline and rising labor costs
-
----
-
-## 🛠️ Tools Used
-
-- **Python** (pandas) — cleaning and combining the data
-- **Jupyter Notebook** — where the cleaning code lives
-- **Tableau** — building the interactive dashboards
-- **SQL** — wrote queries to reproduce dashboard aggregations (avg net income by state, top states, rural/urban counts) and investigate specific findings
 
 ---
 
