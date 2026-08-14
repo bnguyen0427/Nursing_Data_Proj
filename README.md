@@ -34,7 +34,7 @@ The data was provided by [**CMS (Centers for Medicare & Medicaid Services)**](ht
 - **Health Deficiencies** – inspection/violation records
 - **Quality Measures** – care quality scores
 - **Penalties** – fines and payment denials
-
+<img width="866" height="675" alt="Screenshot 2026-08-13 at 9 45 15 PM" src="https://github.com/user-attachments/assets/daa76352-f562-45df-9a64-97336fb82d0e" />
 ---
 ## 🛠️ Tools Used
 
