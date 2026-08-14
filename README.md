@@ -35,8 +35,10 @@ The data was provided by [**CMS (Centers for Medicare & Medicaid Services)**](ht
 - **Quality Measures** – care quality scores
 - **Penalties** – fines and payment denials
 <img width="866" height="675" alt="Screenshot 2026-08-13 at 9 45 15 PM" src="https://github.com/user-attachments/assets/daa76352-f562-45df-9a64-97336fb82d0e" />
+
 ---
-## 🛠️ Tools Used
+
+## Tools Used
 
 - **Python** (pandas) — cleaning and combining the data
 - **Jupyter Notebook** — where the cleaning code lives
@@ -61,7 +63,7 @@ Government data is messy, so I built a Python pipeline (`Data_Cleaning.ipynb`) t
 
 ---
 
-## 📊 The Dashboard (3 Pages, Built in Tableau)
+## The Dashboards
 
 ### 1. Overview
 The big picture — total facilities, average ratings, revenue, and income trends from 2015–2021, plus a map of where facilities are located.
@@ -80,10 +82,10 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 <img width="949" height="563" alt="Screenshot 2026-08-11 at 9 22 42 PM" src="https://github.com/user-attachments/assets/fbe2aa0d-5b4b-4576-9c97-2eaed26595a2" />
 
-**[🔗 View the live dashboard on Tableau Public](https://public.tableau.com/shared/GNM2RXGRK?:display_count=n&:origin=viz_share_link)**
+**[View the live dashboard on Tableau Public](https://public.tableau.com/shared/GNM2RXGRK?:display_count=n&:origin=viz_share_link)**
 ---
 
-## 💡 Key Takeaways
+## Key Insights
 
 - **Stable revenue.** Nursing homes generate stable revenue over the years ( even during COVID 19)
 - **Most facilities are for-profit**, which affects both risk and quality ratings compared to non-profit or government-run homes.
@@ -94,7 +96,7 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 ---
 
-## 👤 Credits
+## Credits
 
 **Author: Brandon Nguyen**
 - **Mentors**: Bach Nguyen (Data Engineer at CoxHealth) and Binh Tran (Data Scientist at iSpot.tv)
