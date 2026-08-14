@@ -95,6 +95,14 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 - **Risk factors**: Occupancy decline and rising labor costs
 
 ---
+## Reflections
+Through this project, I developed:
+
+A deeper understanding of the U.S. healthcare system from both financial and operational perspectives.
+Strong Tableau skills, including interactive dashboards and user-focused design.
+The ability to bridge data science, domain research, and investor storytelling.
+
+---
 
 ## Credits
 
