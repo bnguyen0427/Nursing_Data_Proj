@@ -87,12 +87,12 @@ A closer look at financial health — profit margins, debt levels, labor costs, 
 
 ## Key Insights
 
-- **Stable revenue.** Nursing homes generate stable revenue over the years ( even during COVID 19)
-- **Most facilities are for-profit**, which affects both risk and quality ratings compared to non-profit or government-run homes.
-- **High-demand states aren't always the most profitable ones.** States like Maine, Florida, and West Virginia have the oldest populations, but they aren't necessarily the top states for net income — a potential opportunity gap for investors.
-- **Urban facilities outnumber rural ones by more than 2-to-1** (~11,100 vs. ~4,400), which affects staffing and costs differently.
-- **Potential investment regions** DC, HI, VA, LA
-- **Risk factors** Occupancy decline and rising labor costs
+- **Stable revenue.**: Nursing homes generate stable revenue over the years ( even during COVID 19)
+- **Most facilities are for-profit**: This affects both risk and quality ratings compared to non-profit or government-run homes.
+- **High-demand states aren't always the most profitable ones.** : States like Maine, Florida, and West Virginia have the oldest populations, but they aren't necessarily the top states for net income — a potential opportunity gap for investors.
+- **Urban facilities outnumber rural ones by more than 2-to-1**: (~11,100 vs. ~4,400), which affects staffing and costs differently.
+- **Potential investment regions**: DC, HI, VA, LA
+- **Risk factors**: Occupancy decline and rising labor costs
 
 ---
 
